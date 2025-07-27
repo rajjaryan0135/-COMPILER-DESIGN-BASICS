@@ -60,3 +60,6 @@ Code editors for syntax highlighting,
 Static analyzers to detect bugs,
 
 Scripting engines for embedded logic in applications.
+
+#OUTPUT:
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/83dcc344-fed1-4bc3-8396-bc1d2c18bbe1" />
