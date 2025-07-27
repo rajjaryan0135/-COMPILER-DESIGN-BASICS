@@ -62,4 +62,4 @@ Static analyzers to detect bugs,
 Scripting engines for embedded logic in applications.
 
 #OUTPUT:
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/83dcc344-fed1-4bc3-8396-bc1d2c18bbe1" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2ff81e2f-a0db-4121-b3e6-928c29830292" />
