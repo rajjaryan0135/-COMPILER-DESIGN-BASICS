@@ -1,5 +1,10 @@
 # -COMPILER-DESIGN-BASICS
-
+ COMPANY: CODTECH IT SOLUTIONS PVT.LTD
+ *NAME: RAJARYAN 
+ INTERN ID: CT04DZ227
+ DOMAIN: C LANGUAGE
+ DURATION: 4 WEEKS 
+ MENTOR: NEELA SANTOSH KUMAR
 In Task 3, the goal is to implement a basic lexical analyzer using the C programming language. This task falls under the fundamental concepts of compiler design, where the focus is to break down source code into meaningful tokens. Specifically, the program is designed to identify keywords, operators, and identifiers from a single-line input source code. It introduces learners to the first phase of compilation — lexical analysis, where raw text is scanned and classified into recognizable syntactic units.
 
 A lexical analyzer (or lexer) is the first component in a compiler pipeline. It reads the source code character by character and groups them into tokens, such as keywords (int, float, etc.), identifiers (x, total, sum1, etc.), operators (+, =, <, etc.), and symbols. In real-world compiler systems, lexical analysis is implemented using tools like Lex or manually through custom logic, as is done in this program. Core Logic and Components
